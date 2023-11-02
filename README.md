@@ -17,7 +17,7 @@
 ## Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Dynamics of Instruction Tuning: Each Ability of Large Language Models Has Its Own Growth Pace**](https://arxiv.org/pdf/2310.19651.pdf)| arXiv | 2023-10-30 | - | - | 
+| ![Star](https://img.shields.io/github/stars/ChiyuSONG/dynamics-of-instruction-tuning.svg?style=social&label=Star) <br>[**Dynamics of Instruction Tuning: Each Ability of Large Language Models Has Its Own Growth Pace**](https://arxiv.org/pdf/2310.19651.pdf)| arXiv | 2023-10-30 | [Github](https://github.com/ChiyuSONG/dynamics-of-instruction-tuning) | - | 
 | ![Star](https://img.shields.io/github/stars/tianyi-lab/Reflection_Tuning.svg?style=social&label=Star) <br> [**Reflection-Tuning: Data Recycling Improves LLM Instruction-Tuning**](https://arxiv.org/pdf/2310.11716.pdf)| NeurIPS 2023 Workshop | 2023-10-18 | [Github](https://github.com/tianyi-lab/Reflection_Tuning) | - | 
 | [**LoBaSS: Gauging Learnability in Supervised Fine-tuning Data**](https://arxiv.org/pdf/2310.13008.pdf)| arXiv | 2023-10-16 | - | - | 
 | [**How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition**](https://arxiv.org/pdf/2310.05492v2.pdf)| arXiv | 2023-10-09 | - | - | 
