@@ -5,7 +5,7 @@
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/liaoning97/REVO-LION.svg?style=social&label=Star) <br> [**REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets**](https://arxiv.org/pdf/2310.06594.pdf)| arXiv | 2023-10-10 | [coming soon](https://github.com/liaoning97/REVO-LION) | - | 
+| ![Star](https://img.shields.io/github/stars/liaoning97/REVO-LION.svg?style=social&label=Star) <br> [**REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets**](https://arxiv.org/pdf/2310.06594.pdf)| arXiv | 2023-10-10 | [Coming soon](https://github.com/liaoning97/REVO-LION) | - | 
 | ![Star](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg?style=social&label=Star) <br> [**Improved Baselines with Visual Instruction Tuning**](https://arxiv.org/pdf/2310.03744.pdf) | arXiv | 2023-10-05 | [Github](https://github.com/haotian-liu/LLaVA) | [Demo](https://llava.hliu.cc/) |
 |![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star) <br> [**Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning**](https://arxiv.org/pdf/2306.14565.pdf)| arXiv | 2023-09-29 | [Github](https://fuxiaoliu.github.io/LRV/) | - | 
 | ![Star](https://img.shields.io/github/stars/VT-NLP/MultiInstruct.svg?style=social&label=Star) <br> [**MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning**](https://arxiv.org/pdf/2212.10773.pdf)| ACL 2023 | 2023-06-10 | [Github](https://github.com/VT-NLP/MultiInstruct) | - |
@@ -17,6 +17,8 @@
 ## Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/PlusLabNLP/Active-IT.svg?style=social&label=Star) <br> [**Active Instruction Tuning: Improving Cross-Task Generalization by Training on Prompt Sensitive Tasks**](https://arxiv.org/pdf/2311.00288.pdf)| EMNLP 2023 | 2023-11-01 | [Coming soon](https://github.com/PlusLabNLP/Active-IT) | - | 
+| [**Distort, Distract, Decode: Instruction-Tuned Model Can Refine its Response from Noisy Instructions**](https://arxiv.org/pdf/2311.00233.pdf)| NeurIPS 2023 Workshop on Instruction Tuning and Instruction Following | 2023-11-01 | - | - | 
 | ![Star](https://img.shields.io/github/stars/ChiyuSONG/dynamics-of-instruction-tuning.svg?style=social&label=Star) <br>[**Dynamics of Instruction Tuning: Each Ability of Large Language Models Has Its Own Growth Pace**](https://arxiv.org/pdf/2310.19651.pdf)| arXiv | 2023-10-30 | [Github](https://github.com/ChiyuSONG/dynamics-of-instruction-tuning) | - | 
 | ![Star](https://img.shields.io/github/stars/tianyi-lab/Reflection_Tuning.svg?style=social&label=Star) <br> [**Reflection-Tuning: Data Recycling Improves LLM Instruction-Tuning**](https://arxiv.org/pdf/2310.11716.pdf)| NeurIPS 2023 Workshop | 2023-10-18 | [Github](https://github.com/tianyi-lab/Reflection_Tuning) | - | 
 | [**LoBaSS: Gauging Learnability in Supervised Fine-tuning Data**](https://arxiv.org/pdf/2310.13008.pdf)| arXiv | 2023-10-16 | - | - | 
@@ -27,6 +29,7 @@
 | [**Orca: Progressive Learning from Complex Explanation Traces of GPT-4**](https://arxiv.org/pdf/2306.02707.pdf)| arXiv | 2023-06-05 | - | - | 
 | [**LIMA: Less Is More for Alignment**](https://arxiv.org/pdf/2305.11206.pdf)| arXiv | 2023-05-18 | - | - | 
 | [**Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning**](https://arxiv.org/pdf/2305.09246.pdf)| arXiv | 2023-05-16 | - | - | 
+| ![Star](https://img.shields.io/github/stars/Instruction-Tuning-with-GPT-4/GPT-4-LLM.svg?style=social&label=Star) <br> [**Instruction Tuning with GPT-4**](https://arxiv.org/pdf/2304.03277.pdf)| arXiv | 2023-04-06 | [Github](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) | [Demo](https://instruction-tuning-with-gpt-4.github.io/) | 
 | ![Star](https://img.shields.io/github/stars/google-research/FLAN.svg?style=social&label=Star) <br> [**The Flan Collection: Designing Data and Methods for Effective Instruction Tuning**](https://arxiv.org/pdf/2301.13688.pdf)| arXiv | 2023-01-31 | [Github](https://github.com/google-research/FLAN/tree/main/flan/v2) | - | 
 | ![Star](https://img.shields.io/github/stars/allenai/open-instruct.svg?style=social&label=Star) <br> [**How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources**](https://arxiv.org/pdf/2306.04751.pdf)| NeurIPS 2023 | 2023-01-07 | [Github](https://github.com/allenai/open-instruct) | - | 
 | ![Star](https://img.shields.io/github/stars/yizhongw/self-instruct.svg?style=social&label=Star) <br> [**Self-Instruct: Aligning Language Models with Self-Generated Instructions**](https://arxiv.org/pdf/2212.10560.pdf)| ACL 2023 | 2022-12-20 | [Github](https://github.com/yizhongw/self-instruct) | - | 
