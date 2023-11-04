@@ -1,5 +1,9 @@
 # Awesome-Visual-Instruction-Tuning
 
+- [Awesome-Visual-Instruction-Tuning](#awesome-visual-instruction-tuning)
+  - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
+  - [Instruction Tuning](#instruction-tuning)
+  - [Awesome Awesomeness](#awesome-awesomeness)
 
 
 ## Multimodal Instruction Tuning
@@ -10,6 +14,7 @@
 |![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star) <br> [**Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning**](https://arxiv.org/pdf/2306.14565.pdf)| arXiv | 2023-09-29 | [Github](https://fuxiaoliu.github.io/LRV/) | - | 
 | ![Star](https://img.shields.io/github/stars/VT-NLP/MultiInstruct.svg?style=social&label=Star) <br> [**MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning**](https://arxiv.org/pdf/2212.10773.pdf)| ACL 2023 | 2023-06-10 | [Github](https://github.com/VT-NLP/MultiInstruct) | - |
 |![Star](https://img.shields.io/github/stars/Luodian/Otter.svg?style=social&label=Star) <br> [**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**](https://arxiv.org/pdf/2306.05425.pdf)| arXiv | 2023-06-08 | [Github](https://github.com/Luodian/Otter) | [Demo](https://ottervideo.cliangyu.com/) | 
+| [**M$^3$IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**](https://arxiv.org/pdf/2306.04387.pdf)| arXiv | 2023-06-07 | - | [Demo](https://m3-it.github.io/) | 
 | ![Star](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg?style=social&label=Star) <br> [**Visual Instruction Tuning**](https://arxiv.org/pdf/2304.08485.pdf) <br> | NeurIPS 2023, Oral | 2023-04-17 | [Github](https://github.com/haotian-liu/LLaVA) | [Demo](https://llava.hliu.cc/) | 
 <!-- | ![Star](https://img.shields.io/github/stars/xxx/xxx.svg?style=social&label=Star) <br> [**xxx**]()| arXiv | | [Github]() | [Demo]() |  -->
 
@@ -35,3 +40,12 @@
 | ![Star](https://img.shields.io/github/stars/yizhongw/self-instruct.svg?style=social&label=Star) <br> [**Self-Instruct: Aligning Language Models with Self-Generated Instructions**](https://arxiv.org/pdf/2212.10560.pdf)| ACL 2023 | 2022-12-20 | [Github](https://github.com/yizhongw/self-instruct) | - | 
 | [**Scaling Instruction-Finetuned Language Models**](https://arxiv.org/pdf/2210.11416.pdf)| arXiv | 2022-10-20 | - | - | 
 <!-- | ![Star](https://img.shields.io/github/stars/xxx/xxx.svg?style=social&label=Star) <br> [**xxx**]()| arXiv | | [Github]() | [Demo]() |  -->
+
+
+
+## Awesome Awesomeness
+
+|  Repositories  | Stars |
+|:--------|:--------|
+|[**Awesome-LLM-Survey**](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)|![Star](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-LLM-Survey.svg?style=social&label=Star) |
+| [**Instruction-Tuning-Papers**](https://github.com/SinclairCoder/Instruction-Tuning-Papers) | ![Star](https://img.shields.io/github/stars/SinclairCoder/Instruction-Tuning-Papers.svg?style=social&label=Star) |
