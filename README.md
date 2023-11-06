@@ -9,10 +9,12 @@
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/RUCAIBox/ComVint.svg?style=social&label=Star) <br> [**What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning**](https://arxiv.org/pdf/2311.01487.pdf)| arXiv | 2023-11-02 | [Github](https://github.com/RUCAIBox/ComVint) | - | 
 | ![Star](https://img.shields.io/github/stars/liaoning97/REVO-LION.svg?style=social&label=Star) <br> [**REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets**](https://arxiv.org/pdf/2310.06594.pdf)| arXiv | 2023-10-10 | [Coming soon](https://github.com/liaoning97/REVO-LION) | - | 
 | ![Star](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg?style=social&label=Star) <br> [**Improved Baselines with Visual Instruction Tuning**](https://arxiv.org/pdf/2310.03744.pdf) | arXiv | 2023-10-05 | [Github](https://github.com/haotian-liu/LLaVA) | [Demo](https://llava.hliu.cc/) |
 |![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star) <br> [**Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning**](https://arxiv.org/pdf/2306.14565.pdf)| arXiv | 2023-09-29 | [Github](https://fuxiaoliu.github.io/LRV/) | - | 
 | [**An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models**](https://arxiv.org/pdf/2309.09958.pdf)| arXiv | 2023-09-18 | - | - | 
+| ![Star](https://img.shields.io/github/stars/xxx/xxx.svg?style=social&label=Star) <br> [**ImageBind-LLM: Multi-modality Instruction Tuning**]()| arXiv | 2023-09-07 | [Github]() | [Demo]() | 
 | ![Star](https://img.shields.io/github/stars/VT-NLP/MultiInstruct.svg?style=social&label=Star) <br> [**MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning**](https://arxiv.org/pdf/2212.10773.pdf)| ACL 2023 | 2023-06-10 | [Github](https://github.com/VT-NLP/MultiInstruct) | - |
 |![Star](https://img.shields.io/github/stars/Luodian/Otter.svg?style=social&label=Star) <br> [**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**](https://arxiv.org/pdf/2306.05425.pdf)| arXiv | 2023-06-08 | [Github](https://github.com/Luodian/Otter) | [Demo](https://ottervideo.cliangyu.com/) | 
 | [**M$^3$IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**](https://arxiv.org/pdf/2306.04387.pdf)| arXiv | 2023-06-07 | - | [Demo](https://m3-it.github.io/) | 
