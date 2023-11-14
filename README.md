@@ -9,7 +9,7 @@
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/X2FD/LVIS-INSTRUCT4V.svg?style=social&label=Star) <br> [**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**](https://arxiv.org/pdf/2311.07574.pdf)| arXiv | 2023-11-03 | [Github](https://github.com/X2FD/LVIS-INSTRUCT4V) | - | 
+| ![Star](https://img.shields.io/github/stars/X2FD/LVIS-INSTRUCT4V.svg?style=social&label=Star) <br> [**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**](https://arxiv.org/pdf/2311.07574.pdf)| arXiv | 2023-11-13 | [Github](https://github.com/X2FD/LVIS-INSTRUCT4V) | - | 
 | ![Star](https://img.shields.io/github/stars/Luodian/Otter.svg?style=social&label=Star) <br> [**OtterHD: A High-Resolution Multi-modality Model**](http://export.arxiv.org/pdf/2311.04219)| arXiv | 2023-11-07 | [Github](https://github.com/Luodian/Otter) | [Demo](https://huggingface.co/spaces/Otter-AI/OtterHD-Demo) | 
 | ![Star](https://img.shields.io/github/stars/RUCAIBox/ComVint.svg?style=social&label=Star) <br> [**What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning**](https://arxiv.org/pdf/2311.01487.pdf)| arXiv | 2023-11-02 | [Github](https://github.com/RUCAIBox/ComVint) | - | 
 | ![Star](https://img.shields.io/github/stars/liaoning97/REVO-LION.svg?style=social&label=Star) <br> [**REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets**](https://arxiv.org/pdf/2310.06594.pdf)| arXiv | 2023-10-10 | [Coming soon](https://github.com/liaoning97/REVO-LION) | - | 
