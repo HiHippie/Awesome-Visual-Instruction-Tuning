@@ -1,14 +1,15 @@
 # Awesome-Visual-Instruction-Tuning
 
 - [Awesome-Visual-Instruction-Tuning](#awesome-visual-instruction-tuning)
-  - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
+  - [Visual Instruction Tuning](#visual-instruction-tuning)
   - [Instruction Tuning](#instruction-tuning)
   - [Awesome Awesomeness](#awesome-awesomeness)
 
 
-## Multimodal Instruction Tuning
-|  Title  |   Venue  |   Date   |   Code   |   Demo   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+## Visual Instruction Tuning
+|  Title  |   Venue  |   Date   |   Code   |   Demo   | Dataset |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [**DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback**](https://arxiv.org/pdf/2311.10081.pdf)| arXiv | 2023-11-16 | - | - | [Dataset](https://huggingface.co/datasets/YangyiYY/LVLM_NLF) |
 | ![Star](https://img.shields.io/github/stars/X2FD/LVIS-INSTRUCT4V.svg?style=social&label=Star) <br> [**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**](https://arxiv.org/pdf/2311.07574.pdf)| arXiv | 2023-11-13 | [Github](https://github.com/X2FD/LVIS-INSTRUCT4V) | - | 
 | ![Star](https://img.shields.io/github/stars/Luodian/Otter.svg?style=social&label=Star) <br> [**OtterHD: A High-Resolution Multi-modality Model**](http://export.arxiv.org/pdf/2311.04219)| arXiv | 2023-11-07 | [Github](https://github.com/Luodian/Otter) | [Demo](https://huggingface.co/spaces/Otter-AI/OtterHD-Demo) | 
 | ![Star](https://img.shields.io/github/stars/RUCAIBox/ComVint.svg?style=social&label=Star) <br> [**What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning**](https://arxiv.org/pdf/2311.01487.pdf)| arXiv | 2023-11-02 | [Github](https://github.com/RUCAIBox/ComVint) | - | 
