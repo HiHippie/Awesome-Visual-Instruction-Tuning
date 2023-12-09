@@ -31,6 +31,7 @@
 ## Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/CASIA-LM/MoDS.svg?style=social&label=Star) <br> [**MoDS: Model-oriented Data Selection for Instruction Tuning**](https://arxiv.org/pdf/2311.15653.pdf)| arXiv | 2023-11-27 | [Github](https://github.com/CASIA-LM/MoDS) | - | 
 | ![Star](https://img.shields.io/github/stars/PlusLabNLP/Active-IT.svg?style=social&label=Star) <br> [**Active Instruction Tuning: Improving Cross-Task Generalization by Training on Prompt Sensitive Tasks**](https://arxiv.org/pdf/2311.00288.pdf)| EMNLP 2023 | 2023-11-01 | [Coming soon](https://github.com/PlusLabNLP/Active-IT) | - | 
 | [**Distort, Distract, Decode: Instruction-Tuned Model Can Refine its Response from Noisy Instructions**](https://arxiv.org/pdf/2311.00233.pdf)| NeurIPS 2023 Workshop on Instruction Tuning and Instruction Following | 2023-11-01 | - | - | 
 | ![Star](https://img.shields.io/github/stars/ChiyuSONG/dynamics-of-instruction-tuning.svg?style=social&label=Star) <br>[**Dynamics of Instruction Tuning: Each Ability of Large Language Models Has Its Own Growth Pace**](https://arxiv.org/pdf/2310.19651.pdf)| arXiv | 2023-10-30 | [Github](https://github.com/ChiyuSONG/dynamics-of-instruction-tuning) | - | 
