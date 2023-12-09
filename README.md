@@ -9,7 +9,10 @@
 ## Visual Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   | Dataset |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**Continual Instruction Tuning for Large Multimodal Models**](https://arxiv.org/pdf/2311.16206.pdf)| arXiv | 2023-11-27 | - | - | - |
+| [**LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning**](https://arxiv.org/pdf/2312.03849.pdf)| arXiv | 2023-12-06 | - | - | - |
+| [**InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models**](https://arxiv.org/pdf/2312.01886.pdf)| arXiv | 2023-12-04 | - | - | - |
+| ![Star](https://img.shields.io/github/stars/Open3DA/LL3DA.svg?style=social&label=Star) <br> [**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**](https://arxiv.org/pdf/2311.18651.pdf)| arXiv | 2023-11-30 | [Github](https://github.com/Open3DA/LL3DA) | [Demo](https://ll3da.github.io/) | - |
+| [**Continual Instruction Tuning for Large Multimodal Models**](https://arxiv.org/pdf/2311.16206.pdf)| arXiv | 2023-11-27 | - | - | - |
 | ![Star](https://img.shields.io/github/stars/lizhaoliu-Lec/CG-VLM.svg?style=social&label=Star) <br> [**Contrastive Vision-Language Alignment Makes Efficient Instruction Learner**](https://arxiv.org/pdf/2311.17945v1.pdf)| arXiv | 2023-11-23 | [Coming soon](https://github.com/lizhaoliu-Lec/CG-VLM) | - | - |
 | [**DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback**](https://arxiv.org/pdf/2311.10081.pdf)| arXiv | 2023-11-16 | - | - | [Dataset](https://huggingface.co/datasets/YangyiYY/LVLM_NLF) |
 | ![Star](https://img.shields.io/github/stars/X2FD/LVIS-INSTRUCT4V.svg?style=social&label=Star) <br> [**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**](https://arxiv.org/pdf/2311.07574.pdf)| arXiv | 2023-11-13 | [Github](https://github.com/X2FD/LVIS-INSTRUCT4V) | - | [Dataset](https://huggingface.co/datasets/X2FD/LVIS-Instruct4V)  |
