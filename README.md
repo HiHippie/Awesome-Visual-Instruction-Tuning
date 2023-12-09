@@ -1,6 +1,6 @@
 # Awesome-Visual-Instruction-Tuning
 
-![cover_img](assets/cover_img.png){:height="100px" width="400px"}
+![cover_img](assets/cover_img.png)
 
 - [Awesome-Visual-Instruction-Tuning](#awesome-visual-instruction-tuning)
   - [Visual Instruction Tuning](#visual-instruction-tuning)
