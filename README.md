@@ -11,6 +11,7 @@
 ## Visual Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   | Dataset |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [**VILA: On Pre-training for Visual Language Models**](https://arxiv.org/pdf/2312.07533.pdf)| arXiv | 2023-12-12 | - | - | - |
 | [**LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning**](https://arxiv.org/pdf/2312.03849.pdf)| arXiv | 2023-12-06 | - | - | - |
 | [**InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models**](https://arxiv.org/pdf/2312.01886.pdf)| arXiv | 2023-12-04 | - | - | - |
 | ![Star](https://img.shields.io/github/stars/Open3DA/LL3DA.svg?style=social&label=Star) <br> [**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**](https://arxiv.org/pdf/2311.18651.pdf)| arXiv | 2023-11-30 | [Github](https://github.com/Open3DA/LL3DA) | [Demo](https://ll3da.github.io/) | - |
