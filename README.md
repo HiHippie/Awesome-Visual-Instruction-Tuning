@@ -11,6 +11,7 @@
 ## Visual Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   | Dataset |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/lzw-lzw/LEGO.svg?style=social&label=Star) <br> [**LEGO:Language Enhanced Multi-modal Grounding Model**](https://arxiv.org/pdf/2401.06071.pdf)| arXiv | 2024-01-11 | [Github](https://github.com/lzw-lzw/LEGO) | Coming soon | Coming soon |
 | [**VILA: On Pre-training for Visual Language Models**](https://arxiv.org/pdf/2312.07533.pdf)| arXiv | 2023-12-12 | - | - | - |
 | [**LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning**](https://arxiv.org/pdf/2312.03849.pdf)| arXiv | 2023-12-06 | - | - | - |
 | [**InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models**](https://arxiv.org/pdf/2312.01886.pdf)| arXiv | 2023-12-04 | - | - | - |
